@@ -1,0 +1,15 @@
+{
+  "name": "hackerImitation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coolScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hexy": "^0.3.1"
+  }
+}
